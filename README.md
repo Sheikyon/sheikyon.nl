@@ -8,6 +8,6 @@ A Jekyll theme based on [Gradfolio](https://github.com/jitinnair1/gradfolio), an
 * If necessary, also install webrick with `bundle add webrick`
 * Launch the Jekyll server with `bundle exec jekyll serve`
 
-Alternatively, you can [download the source files](https://github.com/jitinnair1/gradfolio/archive/master.zip) and make changes locally. 
+## Aggregates
 
-
+![The same Jekyll website with a profile picture on the right.](1.jpg "")
