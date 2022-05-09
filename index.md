@@ -8,7 +8,7 @@ published: true
 # About me 
   <hr />
 
-My name is Sheikyon ―name by which everyone knows me― and I'm an 18-year-old back-end focused programmer with apparently a lot of time to spare with great enthusiasm towards philosophy, history and everything that can be considered a computer. Also, I occasionally board and write about topics of personal interest in my [Medium](https://medium.com/@Sheikyon) portfolio.
+My name is Sheikyon ―name by which everyone knows me― and I'm an 18-year-old back-end focused programmer with apparently a lot of time to spare with great enthusiasm towards philosophy, history and everything that can be considered a computer. Also, I occasionally board and write about topics of personal interest in my [Substack](https://sheikyon.substack.com/) portfolio.
 
 I consider myself especially skilled at moving around with [Python](https://www.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/) + [Node.js](https://nodejs.org/en/), [Ruby](https://www.ruby-lang.org/en/), [CSS](https://developer.mozilla.org/en/docs/Web/CSS/:lang) and [HTML](https://developer.mozilla.org/es/docs/Web/HTML). Not surprisingly, I am currently learning [C++](https://en.wikipedia.org/wiki/C%2B%2B) and [PHP](https://www.php.net/).
 
