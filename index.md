@@ -14,7 +14,7 @@ I consider myself especially skilled at moving around with [Python](https://www.
 
 # Contact
   <hr />
-  * I usually respond quickly on [Telegram](https://t.me/Sheikyon), [Twitter](https://twitter.com/Sheikyon) and Discord <small>(Sheikyon#6933)</small>.
+  * I usually respond quickly on [Telegram](https://t.me/Sheikyon), [Twitter](https://twitter.com/Sheikyon) and Discord <small>(Sheikyon#0001)</small>.
   * If you prefer to send me an email, you can contact me via [sheikyon@sheikyon.nl](mailto:sheikyon@sheikyon.nl).
   * If none of the above alternatives is safe for you or you don't feel comfortable with them, you can contact me by messaging me via XMPP at [sheikyon(at)riseup(dot)net](mailto:sheikyon@riseup.net). I tend to log in sporadically, so don't expect a quick response from me there.
 
