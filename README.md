@@ -10,7 +10,7 @@ A Jekyll theme based on [Gradfolio](https://github.com/jitinnair1/gradfolio), an
 
 ## Aggregates
 
-![The same Jekyll website with a profile picture on the right.](1.jpg "")
+![The same Jekyll website with a profile picture on the right.](website-screenshot.png "")
 To enable the circular profile picture, you will need to modify your `index.md` file. Open it, under the third line where the title is, write the following code, it should look like this:
 ~~~ 
 ---
