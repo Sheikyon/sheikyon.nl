@@ -3,7 +3,7 @@
 title: Sheikyon
 description: Hobbyist full-stack developer (and sysadmin) | Void GNU/Linux.
 
-baseurl: /sheikyon.nl #name of GitHub repository
+baseurl: / #name of GitHub repository
 url: "https://sheikyon.nl/" #custom url to be used instead of GitHub repository
 email: 
 
