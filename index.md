@@ -1,9 +1,6 @@
 ---
 layout: about
 title: About me
-profile:
-  align: right
-  image: profile.png
 permalink: /
 published: true
 ---
